@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 
-# TODO:
-# check if CSV exists before writing header row
-# do check if RT properly
-# add output to Slack channel
-# extract defanged URLs and convert for #opendir matches
-
 import tweepy
 import sys
 import configparser
